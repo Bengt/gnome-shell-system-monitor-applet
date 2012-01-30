@@ -146,7 +146,7 @@ msgid "system"
 msgstr "system"
 
 msgid "other"
-msgstr "Andere"
+msgstr "andere"
 
 msgid "nice"
 msgstr "nice"
